@@ -3,9 +3,12 @@
 
 //{"key":"影视家","name":"影视家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./影视家.json"},
 
-{"key":"荐片","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1,"ext":"http://api2.rinhome.com"},
 
-{"key":"荐片P2P","name":"荐片P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./js/lib/drpy.min.js","ext":".js/jp.js"},
+{"key":"荐片","name":"荐片","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
+
+//{"key":"荐片P2P","name":"荐片P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./js/lib/drpy.min.js","ext":".js/jp.js"},
+
+{"key":"荐片P2P","name":"荐片P2P","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1,"ext":"http://api2.rinhome.com"},
 
 {"key":"原创","name":"原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
 
