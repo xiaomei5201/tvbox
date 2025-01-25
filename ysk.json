@@ -1,0 +1,20 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "影视家总站",
+      "sourceUrl": "https://xiaomei5201.serv00.net/xiaomeitv/ysc.json"
+    },
+    {
+      "sourceName": "影视家备份",
+      "sourceUrl": "http://xiaomei5201.free3v.work/ysc.json"
+    },
+    {
+      "sourceName": "欧歌主仓库",
+      "sourceUrl": "https://xn--41y-mf3g9f.v.xn--dkw.xn--6qq986b3xl/nxog/ou1.php?b=欧歌41y"
+    },
+    {
+      "sourceName": "欧歌备1仓库",
+      "sourceUrl": "https://2.nxog.eu.org/nxog/ou1.php?b=欧歌41y"
+    }
+  ]
+}
