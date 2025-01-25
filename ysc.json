@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-            "url": "./ysj.json",
+            "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/xiaomei5201/tvbox/refs/heads/main/ysj.json",
             "name": "影视家"
         },
         {
-            "url": "./yszj/yszj.json",
+            "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/xiaomei5201/tvbox/refs/heads/main/yszj/yszj.json",
             "name": "公共版"
         },
         {
