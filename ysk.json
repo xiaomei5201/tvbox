@@ -2,7 +2,7 @@
   "storeHouse": [
     {
       "sourceName": "影视家总站",
-      "sourceUrl": "https://github.ednovas.xyz/https://raw.githubusercontent.com/xiaomei5201/tvbox/refs/heads/main/ysc.json"
+      "sourceUrl": "./ysc.json"
     },
     {
       "sourceName": "影视家备份",
