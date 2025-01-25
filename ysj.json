@@ -69,7 +69,7 @@
 //{"name":"自动解析","type":3,"url":"Demo"},
 //{"name":"Json并发","type":2,"url":"Parallel"},
 //{"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"影视家","type":0,"url":"https://xiaomei5201.serv00.net/hls/jiexi/?url=", "ext": {
+//{"name":"影视家","type":0,"url":"https://xiaomei5201.serv00.net/hls/jiexi/?url=", "ext": {
         "flag": [
           "qq",
           "腾讯",
@@ -90,6 +90,7 @@
           "哔哩"
         ]
               }},
+{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
 {
 "name":"解析1",
 "type":1,
@@ -103,7 +104,6 @@
     },
 {"name": "8090g","type": 0,"url": "https://www.8090g.cn/jiexi/?url="},
 {"name":"冰豆","type":0,"url":"https://bd.jx.cn/?url="},
-{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"芒果","type":0,"url":"http://mgtv.ckflv.cn/?url="},
 {"name":"蓝光解析","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":[]}},
 {"name":"PM","url":"https://www.playm3u8.cn/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
