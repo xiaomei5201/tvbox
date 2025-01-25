@@ -36,7 +36,7 @@
 
 {"key":"骚火影视","name":"骚火影视","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"jar":"https://xn--lmy-mf3g9f.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=公众号欧歌app"},
 
-{"key":"电影港","name":"电影港","type":3,"api":"csp_DyGang","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"jar":"https://github.ednovas.xyz/https://raw.githubusercontent.com/namegenliang/dy/main/namegen.jar"},
+{"key":"电影港","name":"电影港","type":3,"api":"csp_DyGang","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"jar":"./namegen.jar"},
 
 {"key":"迅吧","name":"迅吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"jar":"https://xn--lmy-mf3g9f.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=公众号欧歌app"},
 
