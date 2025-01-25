@@ -3,7 +3,9 @@
 
 {"key":"影视家","name":"影视家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./影视家.json"},
 
-{"key":"荐片","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1,"ext":"http://api2.rinhome.com"},
+{"key":"荐片","name":"荐片","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./js/lib/drpy2.min.js","ext":".js/jp.js"},
+
+{"key":"荐片P2P","name":"荐片P2P","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1,"ext":"http://api2.rinhome.com"},
 
 {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1},
 
