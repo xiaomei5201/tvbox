@@ -1,16 +1,12 @@
 {
     "urls": [
         {
-            "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/xiaomei5201/tvbox/refs/heads/main/ysj.json",
+            "url": "./ysj.json",
             "name": "影视家"
         },
         {
-            "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/xiaomei5201/tvbox/refs/heads/main/yszj/yszj.json",
+            "url": "./yszj/yszj.json",
             "name": "公共版"
-        },
-        {
-            "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/xiaomei5201/tvbox/refs/heads/main/xiaomeitv.json",
-            "name": "备份"
         },
         {
             "url": "https://jihulab.com/yinhe/whk/-/raw/main/zhys.json",
