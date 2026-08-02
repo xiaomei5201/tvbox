@@ -75,7 +75,7 @@
 "wallpaper":"https://tool.weetai.cn/api",
 "warningText":"影视家完全免费，切勿付费购买。",
 "lives":[{"name":"live",
-"url":"./supertv.json",
+"url":"https://raw.githubusercontent.com/xiaomei5201/tvbox/refs/heads/master/supertv.json",
 "playerType":1,
 "type":0,
 "epg":" https://epg.zbds.top/?ch={name}&date={date}",
