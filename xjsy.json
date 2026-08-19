@@ -75,7 +75,7 @@
 "wallpaper":"https://tool.weetai.cn/api",
 "warningText":"影视家完全免费，切勿付费购买。",
 "lives":[{"name":"live",
-"url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/xiaomei5201/tvbox/refs/heads/master/supertv.json",
+"url":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuZWRub3Zhcy54eXovaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3hpYW9tZWk1MjAxL3R2Ym94L3JlZnMvaGVhZHMvbWFzdGVyL3hqc3kuanNvbg=="],
 "playerType":1,
 "type":0,
 "epg":" https://epg.zbds.top/?ch={name}&date={date}",
