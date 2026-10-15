@@ -2,11 +2,11 @@
   "storeHouse": [
     {
       "sourceName": "影视家总站",
-      "sourceUrl": "https://ystv.serv00.net/ysc.json"
+      "sourceUrl": "http://xiaomei5201.3vhk.cn/ysc.json"
     },
     {
       "sourceName": "影视家备份",
-      "sourceUrl": "http://xiaomei5201.3vhk.cn/ysc.json"
+      "sourceUrl": "https://ystv.serv00.net/ysc.json"
     }
   ]
 }
