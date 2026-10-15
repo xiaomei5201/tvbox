@@ -1,16 +1,7 @@
 {
 "sites":[
 //{cateId}   {catePg}   {area}   {class}   {lang}   {year}
-{
-"key":"🥇",
-"name":"🥇金牌🥇",
-"type":3,
-"jar":"https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1782118073266_ZXYRUXPn.jpg;md5;d6648fd1ac553d555ea8431b8adb7c71",
-"timeout":12,
-"api":"csp_Jpys",
-"ext":"https://y2s52n7.com",
-"playerType":2
-},
+
 {"key":"小君摄影","name":"小君摄影","type":3,"api":"csp_Jpys","ext":"7lj763gg402i7942483i93j6h95h84jil1g7i7","playerType":1,"jar":"https://jihulab.com/yoursmile77/TVBox/-/raw/master/Yoursmile.jar"}
 
 
